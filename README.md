@@ -11,7 +11,7 @@ Tutorial how to get smtp code:
 Here is how to download:
 ```
 git clone https://github.com/gaxahax/GmailSpamVersion2.git
-cd GmailSpamVerion2
+cd GmailSpamVersion2
 python GSv2.py
 ```
 
