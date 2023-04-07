@@ -25,9 +25,9 @@ Termux✅
 
 
 ## Disclaimer
-**I am not responsible for any problems that may happen to you!**
+***I am not responsible for any problems that may happen to you!***
 
-**Use it for educational purposes only!!!**
+***Use it for educational purposes only!!!***
 
 ## Post date
 07/04/2023
