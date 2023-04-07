@@ -1,8 +1,7 @@
 # GmailSpamVersion2
 The  Most Useful Gmail Spam Tool in python
 
-You dont have to use @gmail.com in target and your gmail (but the script clearly tells you to dont use!)
-
+**You _dont have to use @gmail.com_ in target and your gmail**
 
 Tutorial how to get smtp code: 
 [Tutorial](https://youtu.be/1YXVdyVuFGA)
