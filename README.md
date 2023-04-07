@@ -30,4 +30,4 @@ Termux✅
 ***Use it for educational purposes only!!!***
 
 ## Post date
-07/04/2023
+_07/04/2023_
