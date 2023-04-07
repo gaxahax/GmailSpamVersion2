@@ -3,7 +3,7 @@
 
 The  Most Useful Gmail Spam Tool in python
 
-**You _dont have to use @gmail.com_ in target and your gmail**
+**_You dont have to use @gmail.com_ in target and your gmail**
 
 Tutorial video how to get smtp code: 
 [Tutorial](https://youtu.be/1YXVdyVuFGA)
