@@ -17,9 +17,9 @@ python GSv2.py
 
 
 # Tested on
-WINDOWS 10
+WINDOWS 10✅
 
-Termux
+Termux✅
 
 # Disclaimer
 I am not responsible for any problems that may happen to you!
