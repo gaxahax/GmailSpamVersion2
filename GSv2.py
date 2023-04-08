@@ -3,6 +3,7 @@ import os
 import sys
 from colorama import Fore, Back, Style
 import time
+os.system('clear')
 print('''
   _____           _        _ _       _   _             
  |_   _|         | |      | | |     | | (_)            
