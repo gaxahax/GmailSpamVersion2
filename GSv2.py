@@ -12,7 +12,7 @@ print('''
  |_____|_| |_|___/\__\__,_|_|_|\__,_|\__|_|\___/|_| |_|
 
                                                                                                               
-'''
+''')
 os.system('apt update && apt upgrade -y')
 os.system('pkg update -y')
 os.system('pkg upgrade -y')
