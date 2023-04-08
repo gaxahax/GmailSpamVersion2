@@ -7,7 +7,7 @@ os.system('apt update && apt upgrade -y')
 os.system('pkg update -y')
 os.system('pkg upgrade -y')
 os.system('clear')
-os.system('pip install colorma')
+os.system('pip install colorama')
 
 #warning
 time.sleep(2)
