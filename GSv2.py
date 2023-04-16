@@ -69,7 +69,7 @@ with smtplib.SMTP('smtp.gmail.com', '587') as smtpserver:
         subject = 'Subject: ' + sub + '\n\n'
         content = subject + message
         smtpserver.sendmail(fromaddrs, toaddrs, content)
-        print(Fore.RED + str(i+1) + " MAIL SUCCESSFULLY SENT.")
+        print(Fore.RED + str(i+1) + " MAIL SUCCESSFULLY SENT!")
     #WAITING...
         if (i+1) % 75 == 0:
             print(Fore.YELLOW + "Waiting 3 minutes...")
