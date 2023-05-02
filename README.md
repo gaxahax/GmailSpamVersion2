@@ -13,10 +13,10 @@ Here is how to download:
 ```
 git clone https://github.com/gaxahax/GmailSpamVersion2.git
 cd GmailSpamVersion2
+python GSv2-SETUP.py
 python GSv2.py
 ```
-
-
+if you run GSv2-SETUP.py, you can put only a y and dont need to run GSv2.py
 
 ## Tested on
 WINDOWS 10✅
