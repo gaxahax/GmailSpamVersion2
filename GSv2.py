@@ -4,21 +4,6 @@ import sys
 from colorama import Fore, Back, Style
 import time
 os.system('clear')
-print('''
-  _____           _        _ _       _   _             
- |_   _|         | |      | | |     | | (_)            
-   | |  _ __  ___| |_ __ _| | | __ _| |_ _  ___  _ __  
-   | | | '_ \/ __| __/ _` | | |/ _` | __| |/ _ \| '_ \ 
-  _| |_| | | \__ \ || (_| | | | (_| | |_| | (_) | | | |
- |_____|_| |_|___/\__\__,_|_|_|\__,_|\__|_|\___/|_| |_|
-
-                                                                                                              
-''')
-os.system('apt update && apt upgrade -y')
-os.system('pkg update -y')
-os.system('pkg upgrade -y')
-os.system('pip install colorama')
-os.system('clear')
 
 #warning
 time.sleep(2)
