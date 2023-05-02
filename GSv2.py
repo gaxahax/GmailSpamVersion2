@@ -48,7 +48,15 @@ with smtplib.SMTP('smtp.gmail.com', '587') as smtpserver:
     smtpserver.ehlo()
     smtpserver.starttls()
     smtpserver.ehlo()
-    smtpserver.login(fromaddrs, Password)
+    try:
+        smtpserver.login(fromaddrs, Password)
+        print(Fore.GREEN + "LOGGED IN!")
+ except smtplib.SMTPAuthenticationError:
+        print(Fore.RED + "\nLOGIN FAILED! PLEASE CHECK YOUR USERNAME AND SMTP CODE!\n\n")
+        time.sleep(1.5)
+        print(Fore.RED + "Exiting tool...")
+        sys.exit()
+    time.sleep(2)
 
     for i in range(num_iterations):
         subject = 'Subject: ' + sub + '\n\n'
