@@ -51,7 +51,7 @@ with smtplib.SMTP('smtp.gmail.com', '587') as smtpserver:
     try:
         smtpserver.login(fromaddrs, Password)
         print(Fore.GREEN + "LOGGED IN!")
- except smtplib.SMTPAuthenticationError:
+except smtplib.SMTPAuthenticationError:
         print(Fore.RED + "\nLOGIN FAILED! PLEASE CHECK YOUR USERNAME AND SMTP CODE!\n\n")
         time.sleep(1.5)
         print(Fore.RED + "Exiting tool...")
