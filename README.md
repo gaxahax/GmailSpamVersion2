@@ -14,7 +14,6 @@ Here is how to download:
 git clone https://github.com/gaxahax/GmailSpamVersion2.git
 cd GmailSpamVersion2
 python GSv2-SETUP.py
-
 ```
 Then you can type y and start tool or if you put n run this:
 ```
