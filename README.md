@@ -26,7 +26,7 @@ python GSv2.py
 
 ## Tested on
 WINDOWS 10✅
-
+Kali Linux✅
 Termux✅
 
 ## Disclaimer
