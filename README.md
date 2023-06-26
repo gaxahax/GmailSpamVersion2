@@ -1,6 +1,5 @@
 # GmailSpamVersion2
 ![image](https://user-images.githubusercontent.com/119358021/230648887-81415e4d-e38c-4769-9227-56a62b61614e.png)
-![](https://img.shields.io/github/forks/pandao/editor.md.svg)
 
 The  Most Useful Gmail Spam Tool in python
 
