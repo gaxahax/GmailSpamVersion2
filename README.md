@@ -1,6 +1,7 @@
 # GmailSpamVersion2
 
-![gmailspamv2banner](https://github.com/gaxahax/GmailSpamVersion2/assets/119358021/c6a1a3b6-497e-4049-aea3-dcd851577383)
+![gmailspamversion2banner](https://github.com/gaxahax/GmailSpamVersion2/assets/119358021/f3710b60-3ff3-4806-99b2-aaf88d6a32fa)
+
 
 The  Most Useful Gmail Spam Tool in python
 
